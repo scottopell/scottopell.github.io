@@ -6,7 +6,7 @@ body{
 }
 
 .page{
-  width: 400px;
+  width: 300px;
   padding-top: 30px;
 }
 
@@ -20,26 +20,29 @@ body{
   font-family: 'open sans', Fallback, sans-serif;
 }
 
-.bio{
-  width: 350px;
-  display: inline;
+
+.bio {
+  display: block;
 }
 
-.bio .profile{
-  width: 150px;
+.bio .profile {
   border-radius: 3px;
+  width: 150px;
   float: left;
-  margin-top: 22px;
+}
+
+.bio img {
+  margin-left: 72px;
 }
 
 .bio p{
-  width: 213px;
+  width: 300px;
   float: right;
 }
 
+
 .buttons {
   padding-top: 50px;
-  width 300px;
 }
 
 .tooltip {
@@ -97,4 +100,24 @@ body{
 
 .clear{
   clear: both;
+}
+
+
+@media (min-width: 380px){
+  .bio{
+    width: 380px;
+    display: inline;
+  }
+
+  .bio .profile{
+    margin-left: 0px;
+  }
+
+  .bio p{
+    width: 127px;
+  }
+
+  .buttons {
+    width: 300px;
+  }
 }
