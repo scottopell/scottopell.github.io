@@ -31,6 +31,16 @@ body{
   float: left;
 }
 
+.frontpage .post-meta {
+  font-weight: 200;
+  font-color: light-grey;
+  float: right;
+}
+
+.frontpage {
+  display: inline-block;
+}
+
 .bio img {
   margin-left: 72px;
 }
