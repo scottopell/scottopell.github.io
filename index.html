@@ -19,7 +19,25 @@
     ga('send', 'pageview');
   </script>
   <script>
+    var alphaPhrases = [
+      "Enthusiastic Github User.",
+      "Student.",
+      "Hacker.",
+      "Code Monkey.",
+    ];
+    var omegaPhrases = [
+      "Amaretto Afficiano.",
+      "Giant Sunbathing Lizard",
+      "<a href='img/harrys.jpg'>Harry's</a> Insider.",
+      "<a href='img/harrys.jpg'>Harry's</a> Insider.",
+    ];
     $(document).ready( function(){
+      var alphaIndex = Math.floor(Math.random() * alphaPhrases.length);
+      var omegaIndex = Math.floor(Math.random() * omegaPhrases.length);
+      $(".tagline #alpha").html(alphaPhrases[alphaIndex]);
+      $(".tagline #omega").html(omegaPhrases[omegaIndex]);
+      console.log($(".tagline #omega"));
+      console.log(alphaIndex);
     });
   </script>
   <div class='page center'>
@@ -39,8 +57,14 @@
       <div class=''>
         <img src="img/profile.jpg" alt='Profile Picture' class='profile inner-center'>
       </div>
-      <p class='text'>
-        I enjoy long walks on the beach and making things.
+      <p class='text tagline'>
+        <span id='alpha'>
+          Enthusiastic Github User.
+        </span>
+        <br>
+        <span id='omega'>
+          Amaretto Afficianado.
+        </span>
       </p>
     </div>
     <div class='clear'></div>
@@ -49,7 +73,7 @@
       <div class='inner-center'>
         <a href='https://github.com/scottopell' class='github' title='github'>github</a>
         <br>
-        <a href='https://www.dropbox.com/s/3h10gi2kaq9sval/Resume--ScottOpell--Sept2014.pdf?dl=0' class='resume' title='resume'>resume</a>
+        <a href='assets/scott_opell_resume.pdf' class='resume' title='resume'>resume</a>
         <br>
         <a href='https://www.linkedin.com/profile/view?id=236550339&trk=nav_responsive_tab_profile_pic' class='linkedin' title='linkedin'>linkedin</a>
         <br>
