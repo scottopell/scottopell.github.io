@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/scott_o
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scottopell.com
+  * I am scott_o (https://keybase.io/scott_o) on keybase.
+  * I have a public key with fingerprint 91BE AEDD 380A FB1E 0616  0057 16BF E230 853D 68F5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012080cf6dbb8c9a23eb27ec3bc1d476add968e21806750d00fbccc9a2b6b0031f7a0a",
+            "fingerprint": "91beaedd380afb1e0616005716bfe230853d68f5",
+            "host": "keybase.io",
+            "key_id": "16bfe230853d68f5",
+            "kid": "01011c5e3d6e44b5743b5aa15cfb64ab9e6705efa4308300c558187ffdb31ece45d20a",
+            "uid": "df12af898165ee16e40a6d78e0ad0119",
+            "username": "scott_o"
+        },
+        "service": {
+            "hostname": "scottopell.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470184554,
+    "expire_in": 157680000,
+    "prev": "7cf9bc59086b7297ae412457af9a31eb2386b0afb46885be8da42fbcbe6500d7",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNoAnicbVJrTBxVFGYXC4FICgXBhspjNDwi0nvnPSugUApaQbeUSsWSzdyZO7vD
+Y2fZB1AQSag2aRq1KG1oaqhIsxQ0qBibkgplkfpqKS3lYYO12IYYjI80tVSkFWeI
+Tfzh/XNzz/m+73znnDsWERwUboo9cx28nu24bToX6PAFlXVlVTYRSJP3EJYmogqv
+Xbhaxh6vrUqVCQsBIAl4ICmsjBAvCSJJYURyWKKQBGWaY0VZFlgek5AHLMcAGQAF
+SZIBRCwCgIIKJwKRyCAU1WnHbpdbdXp1WQEiLGJZpnggKghiwEIWAIaDLFIwSQGe
+oWSWVxid6NA8BkM3h0QPzlQ1PaY/bGv2/gd/3zeAUGKwHsY0jRiOphAjipCRFMTS
+IhIwywEGKyKtkykAJIbhIc8piowoiCVMMzK55tu3JicrkBQVXuAhy2AMdU0gsjLH
+YyDKeiHBAHqw2ynWYB3tkTSv16YRzRmEHqxTJWzM1WjkvwDNhaurMyWtRie73JpX
+k7RqPefwel0ei8H17nEZ4HqMbP/K2JDqlPVB6ow67PaompOwQB0peVVDF9IcgDzN
+MHQGgRtcqhvbVAPBcCwP9GPUwXW6JCcpApIYAfAs4kiBEzENSZrhREUQ9fYRSekJ
+YzM0y/MMwrws0qS+WIRZBgCZI4zGap0aYRF0m6LdaEm1O0Wvz42J5tHA7geCTOFB
+IevMxgcLCg+LvP/tUnes/5uTX+5959hVd642+tqlzYNlD3/xZ/Tue7Gdy0v5iy9O
+fHfnq7k3rCeHff6f27r7NtRd7GtTFwqd19/q63hkNr1k/8D3aduSDl0NlJup7dHq
+Fv/AN+ONYDyQbJ196IC5bmP2kaORIO0M/5xrgzV0ZutvIzETwady7v7yBH32tn+1
+cnF7VfxW35Q1vwBWTMUkFscVNMUl2Ifowpcm5t1XTvQTR9qvlI48+OQrs8ml6u8f
+eFP297gvhL9/74/x5tPWuPTWpB3miUlbBl+y/NjMwdOdrrGOt8m8wZiwplv+vZdv
+Ttl+rJFql5ZPmSPMCY7V/HMx6QNfh7a0tJ2wRiX1F5meqYiq/tbxFNtQfHjn8MjF
+7rSVpuNk2OFDk/vY6E2Pew4UfRLf1Zwx7Ft4Nq1dKHM4oy7nfPmoxW0a6q9EiUpR
+yOcVe+VsgfeXw8H6sdDw6dm51OKPoGnmfFh6a9e+4L519hB/Uk3fjPPGrDKxYt6V
+slS6OnXBZutZuDmNbkwmlnzojh/9a1vu8t35TZ0r0a3WuYGhjTvfjAw99hNlvzYf
+C/MUvvDVrN6I+ueb301O3bILFpbXai2aqb7rmhrZ6Hjv7J3aBOnX8wx8IWd95uKn
+TABnhU3f+pj5bC6jqjrLFZRLWY425B3sLVNOTl1q3xybXFA+xfuK6PYepv149w8p
+gaLWpxv/AVkTtPI=
+=o1WQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scott_o
+
+==================================================================
